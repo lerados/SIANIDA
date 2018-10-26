@@ -1,0 +1,24 @@
+body{
+	background-image: url('../images/vedca.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.trumah{
+	background-image: url('../images/bg_home.png');
+}
+.rumah{
+	font-size: 35px;
+	color: white;
+}
+.kelola{
+	background-color: white;
+}
+.handap{
+	margin-bottom: 15px;
+}
+.luhur{
+	margin-top: 5px;
+}
+.luhur2{
+	margin-top: 20px;
+}
